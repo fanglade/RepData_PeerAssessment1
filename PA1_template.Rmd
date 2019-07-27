@@ -1,7 +1,7 @@
 ---
 title: "Peer-graded Assignment: Course Project 1"
 author: "Frederic Anglade"
-date: "July 26, 2019"
+date: "July 27, 2019"
 output: 
   html_document: 
     keep_md: yes
